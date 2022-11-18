@@ -10,4 +10,4 @@ Game inspired by the classic pong game, implemented in C++ using the SDL2 librar
 4. SDL_image
 
 ## If you don't want to compile it yourself 
-Just download the compiled binaries, you can find them in the debug folder along with the required DLLs
+Just download the compiled executable along with the DLLs in the Debug folder
