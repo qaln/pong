@@ -8,6 +8,3 @@ Game inspired by the classic pong game, implemented in C++ using the SDL2 librar
 2. SDL_TTF
 3. SDL_Mixer
 4. SDL_image
-
-## If you don't want to compile it yourself 
-Just download the compiled executable along with the DLLs in the Debug folder
